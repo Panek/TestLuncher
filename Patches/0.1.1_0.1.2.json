@@ -1,0 +1,29 @@
+{
+  "From": "0.1.1",
+  "To": "0.1.2",
+  "Hash": "dCJMGEq+/mlz4QPU15t9LWn1ARg",
+  "TotalSize": 2793,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "PatcherTest.exe_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2021-01-10T18:13:16.4314548Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "PatcherTest.exe_Data/level1",
+      "Attributes": 32,
+      "LastWriting": "2021-01-10T18:13:14.4674968Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2021-01-10T18:13:39.875969Z",
+      "Size": 0
+    }
+  ]
+}
