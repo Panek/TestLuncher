@@ -1,0 +1,2 @@
+2021-01-10 19:31:13.565 +01:00 [INF] ===> [Launcher updating] process STARTED! <===
+2021-01-10 19:31:14.104 +01:00 [ERR] [Launcher updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
